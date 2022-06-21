@@ -28,7 +28,6 @@ To run this project, you'll need to have the following installed:
   npm install npm@latest -g
   ```
 
-> <br>
 
 ### Installation
 
