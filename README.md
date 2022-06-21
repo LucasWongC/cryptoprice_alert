@@ -5,6 +5,7 @@
 
 This bot fetches cryptocurrency price every 5 seconds using Uphold API and alerts you about price oscillations on pairs
 
+
 ### Built With
 
 - [Node.js]() - JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -26,7 +27,6 @@ To run this project, you'll need to have the following installed:
   ```sh
   npm install npm@latest -g
   ```
-- Redis server : [https://redis.io/](https://redis.io/) <br>
 
 > <br>
 
