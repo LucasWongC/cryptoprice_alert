@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-Cryptocurrency price alert
+### Cryptocurrency price alert
 
 This bot fetches cryptocurrency price every 5 seconds using Uphold API and alerts you about price oscillations on pairs
 
