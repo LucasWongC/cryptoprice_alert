@@ -47,5 +47,6 @@ To run this project, you'll need to have the following installed:
    ```
 
 4. Test :
+   ```sh
    npm test
-
+   ```
